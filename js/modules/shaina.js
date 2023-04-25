@@ -29,7 +29,7 @@ export default {
             },
 
             {
-                question: "Whatb does CPU stands for?",
+                question: "What does CPU stands for?",
                 choices: {
                     A: "Central Processing Unit",
                     B: "Central Processing Utility",
@@ -40,7 +40,7 @@ export default {
             },
 
             {
-                question: "Which ofvthe following programming languages is used for web development?",
+                question: "Which of the following programming languages is used for web development?",
                 choices: {
                     A: "Java",
                     B: "Python",
@@ -84,7 +84,7 @@ export default {
             },
             
             {
-                question: "Whisch of the following programming languages is ujsed for developing mobile applications",
+                question: "Which of the following programming languages is used for developing mobile applications",
                 choices: {
                     A: "Java",
                     B: "Python",
